@@ -6,6 +6,7 @@
 .docker/dbdata
 .env
 .env.backup
+.idea
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
